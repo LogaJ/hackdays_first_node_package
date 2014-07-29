@@ -1,0 +1,21 @@
+{
+  "name": "node_week_one",
+  "version": "0.0.0",
+  "description": "week one",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "learnings",
+    "hack"
+  ],
+  "author": "loga jegede",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.11.0"
+  }
+}
